@@ -2,7 +2,7 @@
 > **이야기로 배우는 외국어 — 스토리 콘텐츠 기반 다국어 학습 모바일 앱 서비스**
 
 <p align="center">
-  <img src="./image/info.png" width="100%" alt="큐링 소개 이미지" />
+  <img src="./images/info.png" width="100%" alt="큐링 소개 이미지" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ## ✨ 핵심 기능 및 학습 경로 (이해 → 몰입 → 확장)
 
 <p align="center">
-  <img src="./image/serviceflow.png" width="100%" alt="서비스 흐름도" />
+  <img src="./images/serviceflow.png" width="100%" alt="서비스 흐름도" />
 </p>
 
 1. **📖 스토리 학습 (이해)**
@@ -89,11 +89,11 @@
     <td><b>오답 노트</b></td>
   </tr>
   <tr align="center">
-    <td><img src="./image/dashboard.png" width="160" /></td>
-    <td><img src="./image/story.png" width="160" /></td>
-    <td><img src="./image/bot.png" width="160" /></td>
-    <td><img src="./image/ai_interactive.png" width="160" /></td>
-    <td><img src="./image/wrongnote.png" width="160" /></td>
+    <td><img src="./images/dashboard.png" width="160" /></td>
+    <td><img src="./images/story.png" width="160" /></td>
+    <td><img src="./images/bot.png" width="160" /></td>
+    <td><img src="./images/ai_interactive.png" width="160" /></td>
+    <td><img src="./images/wrongnote.png" width="160" /></td>
   </tr>
 </table>
 
@@ -115,7 +115,7 @@
 ## 🏗 시스템 아키텍처 및 핵심 설계
 
 <p align="center">
-  <img src="./image/architecture.png" width="100%" alt="시스템 아키텍처" />
+  <img src="./images/architecture.png" width="100%" alt="시스템 아키텍처" />
 </p>
 
 ### 💡 4가지 핵심 아키텍처 설계 원칙
@@ -144,7 +144,7 @@
 
 ## 🧬 데이터베이스 설계 (ERD)
 <p align="center">
-  <img src="./image/erd.png" width="100%" alt="데이터베이스 ERD" />
+  <img src="./images/erd.png" width="100%" alt="데이터베이스 ERD" />
 </p>
 
 <details>
@@ -197,7 +197,7 @@
 ### 🗂 발표 자료 및 전시 홍보물 (PPT · 브로셔 · 포스터)
 | 구분 | 자료명 | 파일 링크 |
 | :--- | :--- | :---: |
-| **1학기 중간발표** | 프로젝트 기획 배경 및 요구사항 정의 | [📊 PPT 보기](./docs/1학기_중간발표.pptx) |
+| **1학기 중간발표** | 프로젝트 기획 배경 및 요구사항 정의 | [📊 PPT 보기](./docs/1학기_중간발표.pdf) |
 | **1학기 기말발표** | 초기 프로토타입 구현 및 시스템 아키텍처 설계 | [📊 PPT 보기](./docs/1학기_기말발표.pptx) |
 | **2학기 중간발표** | 다국어 확장(한·중·일) 및 AI 인터랙티브 스토리 고도화 | [📊 PPT 보기](./docs/2학기_중간발표.pptx) |
 | **2학기 기말발표** | 최종 서비스 구현, 학습 효과 검증(30명) 및 스토어 출시 보고 | [📊 PPT 보기](./docs/2학기_기말발표.pptx) |
