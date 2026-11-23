@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/" target="_blank">
+  <a href="https://apps.apple.com/kr/app/id6820510959" target="_blank">
     <img src="https://img.shields.io/badge/App_Store-정식_출시_완료-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
   </a>
   <a href="https://www.youtube.com/watch?v=JKoQeEX1mdQ" target="_blank">
